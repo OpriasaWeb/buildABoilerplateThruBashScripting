@@ -1,0 +1,17 @@
+[540ns] Shutting down all processes 
+[442.79µs] Terminating process supervisor with PID 38 (state: S, cmdlind: [supervisor run] <nil>). 
+[25.804958ms] Terminating main process errored: waitid: no child processes 
+[26.162258ms] Terminating process node with PID 234 (state: S, cmdlind: [/ide/node /ide/extensions/json-language-features/server/dist/node/jsonServerMain --node-ipc --clientProcessId=125] <nil>). 
+[26.267038ms] Terminating process node with PID 136 (state: S, cmdlind: [/ide/node /ide/out/bootstrap-fork --type=fileWatcher] <nil>). 
+[26.318898ms] Terminating process node with PID 76 (state: S, cmdlind: [/ide/node /ide/out/server-main.js --log=info --install-builtin-extension gitpod.gitpod-theme --install-builtin-extension github.vscode-pull-request-github --port 23000 --host 0.0.0.0 --without-connection-token --server-data-dir /workspace/.vscode-remote --do-not-sync --start-server] <nil>). 
+[26.278028ms] Terminating main process errored: waitid: no child processes 
+[26.362708ms] Terminating process node with PID 159 (state: S, cmdlind: [/ide/node /ide/out/bootstrap-fork --type=ptyHost --logsPath /workspace/.vscode-remote/data/logs/20250209T125144] <nil>). 
+[26.266928ms] Terminating process node with PID 125 (state: R, cmdlind: [/ide/node --dns-result-order=ipv4first /ide/out/bootstrap-fork --type=extensionHost --transformURIs --useHostProxy=false] <nil>). 
+[26.448148ms] Terminating main process errored: waitid: no child processes 
+[26.850128ms] Terminating main process errored: waitid: no child processes 
+[26.968678ms] Terminating main process errored: waitid: no child processes 
+[46.075557ms] Terminating main process errored: waitid: no child processes 
+[46.514467ms] Process node with PID 234 is a zombie, skipping termination. 
+[46.544887ms] Couldn't obtain process information for PID 136. 
+[46.659017ms] Couldn't obtain process information for PID 159. 
+[46.825517ms] Finished shutting down all processes. 

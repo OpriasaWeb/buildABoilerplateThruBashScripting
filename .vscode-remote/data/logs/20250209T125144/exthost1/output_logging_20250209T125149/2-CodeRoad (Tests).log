@@ -1,0 +1,296 @@
+FAILED TEST LOG
+  ✘ tests should pass
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(lastCommand[0] === 'find' && lastCommand[1] === '-name' && lastCommand[2] === 'images' && /\/project\/website$/.test(cwd))
+
+at Context.<anonymous> (test/1090.test.js:9:5)
+FAILED TEST LOG
+  ✘ tests should pass
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(lastCommand[0] === 'find' && lastCommand[1] === '-name' && lastCommand[2] === 'images' && /\/project\/website$/.test(cwd))
+
+at Context.<anonymous> (test/1090.test.js:9:5)
+FAILED TEST LOG
+  ✘ tests should pass
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(lastCommand[0] === 'find' && lastCommand[1] === '-name' && lastCommand[2] === 'images' && /\/project\/website$/.test(cwd))
+
+at Context.<anonymous> (test/1090.test.js:9:5)
+FAILED TEST LOG
+  ✘ tests should pass
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(lastCommand[0] === 'find' && lastCommand[1] === '-name' && lastCommand[2] === 'images' && /\/project\/website$/.test(cwd))
+
+at Context.<anonymous> (test/1090.test.js:9:5)
+FAILED TEST LOG
+  ✘ tests should pass
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(lastCommand[0] === 'find' && lastCommand[1] === '-name' && lastCommand[2] === 'images' && /\/project\/website$/.test(cwd))
+
+at Context.<anonymous> (test/1090.test.js:9:5)
+FAILED TEST LOG
+  ✘ tests should pass
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(lastCommand[0] === 'find' && lastCommand[1] === '-name' && lastCommand[2] === 'images' && /\/project\/website$/.test(cwd))
+
+at Context.<anonymous> (test/1090.test.js:9:5)
+FAILED TEST LOG
+  ✘ tests should pass
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(lastCommand[0] === 'find' && lastCommand[1] === '-name' && lastCommand[2] === 'images' && /\/project\/website$/.test(cwd))
+
+at Context.<anonymous> (test/1090.test.js:9:5)
+FAILED TEST LOG
+  ✘ tests should pass
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(lastCommand[0] === 'find' && lastCommand[1] === '-name' && lastCommand[2] === 'images' && /\/project\/website$/.test(cwd))
+
+at Context.<anonymous> (test/1090.test.js:9:5)
+FAILED TEST LOG
+  ✘ tests should pass
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(lastCommand[0] === 'find' && lastCommand[1] === '-name' && lastCommand[2] === 'images' && /\/project\/website$/.test(cwd))
+
+at Context.<anonymous> (test/1090.test.js:9:5)
+FAILED TEST LOG
+  ✘ tests should pass
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(lastCommand[0] === 'find' && lastCommand[1] === '-name' && lastCommand[2] === 'images' && /\/project\/website$/.test(cwd))
+
+at Context.<anonymous> (test/1090.test.js:9:5)
+FAILED TEST LOG
+  ✘ tests should pass
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(lastCommand[0] === 'find' && lastCommand[1] === '-name' && lastCommand[2] === 'images' && /\/project\/website$/.test(cwd))
+
+at Context.<anonymous> (test/1090.test.js:9:5)
+FAILED TEST LOG
+  ✘ tests should pass
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(lastCommand[0] === 'find' && lastCommand[1] === '-name' && lastCommand[2] === 'images' && /\/project\/website$/.test(cwd))
+
+at Context.<anonymous> (test/1090.test.js:9:5)
+FAILED TEST LOG
+  ✘ tests should pass
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(lastCommand[0] === 'find' && lastCommand[1] === '-name' && lastCommand[2] === 'images' && /\/project\/website$/.test(cwd))
+
+at Context.<anonymous> (test/1090.test.js:9:5)
+FAILED TEST LOG
+  ✘ tests should pass
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(lastCommand[0] === 'find' && lastCommand[1] === '-name' && lastCommand[2] === 'images' && /\/project\/website$/.test(cwd))
+
+at Context.<anonymous> (test/1090.test.js:9:5)
+FAILED TEST LOG
+  ✘ tests should pass
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(lastCommand[0] === 'find' && lastCommand[1] === '-name' && lastCommand[2] === 'images' && /\/project\/website$/.test(cwd))
+
+at Context.<anonymous> (test/1090.test.js:9:5)
+FAILED TEST LOG
+  ✘ tests should pass
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(lastCommand[0] === 'find' && lastCommand[1] === '-name' && lastCommand[2] === 'images' && /\/project\/website$/.test(cwd))
+
+at Context.<anonymous> (test/1090.test.js:9:5)
+FAILED TEST LOG
+  ✘ tests should pass
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(lastCommand[0] === 'find' && lastCommand[1] === '-name' && lastCommand[2] === 'images' && /\/project\/website$/.test(cwd))
+
+at Context.<anonymous> (test/1090.test.js:9:5)
+FAILED TEST LOG
+  ✘ tests should pass
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(lastCommand[0] === 'find' && lastCommand[1] === '-name' && lastCommand[2] === 'images' && /\/project\/website$/.test(cwd))
+
+at Context.<anonymous> (test/1090.test.js:9:5)
+FAILED TEST LOG
+  ✘ tests should pass
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(lastCommand[0] === 'rmdir' && /images/.test(lastCommand[1]) && !/assets/.test(lastCommand[1]) && lastCommand[2] === undefined && /\/project\/website$/.test(cwd))
+
+at Context.<anonymous> (test/1150.test.js:9:5)
+FAILED TEST LOG
+  ✘ tests should pass
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(imagesDirectory.indexOf('background.jpg') < 0 && lastCommand[0] === 'rm' && /background\.jpg/.test(lastCommand[1]))
+
+at Context.<anonymous> (test/1170.test.js:9:5)
+FAILED TEST LOG
+  ✘ tests should pass
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(imagesDirectory.indexOf('background.jpg') < 0 && lastCommand[0] === 'rm' && /background\.jpg/.test(lastCommand[1]))
+
+at Context.<anonymous> (test/1170.test.js:9:5)
+FAILED TEST LOG
+  ✘ tests should pass
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(imagesDirectory.indexOf('background.jpg') < 0 && lastCommand[0] === 'rm' && /background\.jpg/.test(lastCommand[1]))
+
+at Context.<anonymous> (test/1170.test.js:9:5)
+FAILED TEST LOG
+  ✘ tests should pass
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(imagesDirectory.indexOf('background.jpg') < 0 && lastCommand[0] === 'rm' && /background\.jpg/.test(lastCommand[1]))
+
+at Context.<anonymous> (test/1170.test.js:9:5)
+FAILED TEST LOG
+  ✘ tests should pass
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(imagesDirectory.indexOf('background.jpg') < 0 && lastCommand[0] === 'rm' && /background\.jpg/.test(lastCommand[1]))
+
+at Context.<anonymous> (test/1170.test.js:9:5)
+FAILED TEST LOG
+  ✘ tests should pass
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(lastCommand[0] === 'find' && correctArgs && /\/project\/website$/.test(cwd))
+
+at Context.<anonymous> (test/1215.test.js:10:5)
+FAILED TEST LOG
+  ✘ tests should pass
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(lastCommand[0] === 'find' && correctArgs && /\/project\/website$/.test(cwd))
+
+at Context.<anonymous> (test/1215.test.js:10:5)
+FAILED TEST LOG
+  ✘ tests should pass
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(checkTouch || checkMV)
+
+at Context.<anonymous> (test/1260.test.js:11:5)
+FAILED TEST LOG
+  ✘ tests should pass
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(checkTouch || checkMV)
+
+at Context.<anonymous> (test/1260.test.js:11:5)
+FAILED TEST LOG
+  ✘ tests should pass
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(lastCommand[0] === 'echo' && lastCommand[1] === 'I' && lastCommand[2] === 'finished' && lastCommand[3] === 'the' && lastCommand[4] === 'boilerplate!')
+
+at Context.<anonymous> (test/1380.test.js:8:5)
+FAILED TEST LOG
+  ✘ tests should pass
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(lastCommand[0] === 'echo' && lastCommand[1] === 'I' && lastCommand[2] === 'made' && lastCommand[3] === 'this' && lastCommand[4] === 'boilerplate' && lastCommand[5].op === `>>` && /README\.md$/.test(lastCommand[6]))
+
+at Context.<anonymous> (test/1400.test.js:8:5)
+FAILED TEST LOG
+  ✘ tests should pass
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(lastCommand[0] === 'echo' && lastCommand[1] === 'I' && lastCommand[2] === 'made' && lastCommand[3] === 'this' && lastCommand[4] === 'boilerplate' && lastCommand[5].op === `>>` && /README\.md$/.test(lastCommand[6]))
+
+at Context.<anonymous> (test/1400.test.js:8:5)
+FAILED TEST LOG
+  ✘ tests should pass
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(lastCommand[0] === 'echo' && lastCommand[1] === 'I' && lastCommand[2] === 'made' && lastCommand[3] === 'this' && lastCommand[4] === 'boilerplate' && lastCommand[5].op === `>>` && /README\.md$/.test(lastCommand[6]))
+
+at Context.<anonymous> (test/1400.test.js:8:5)
+FAILED TEST LOG
+  ✘ tests should pass
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(lastCommand[0] === 'echo' && lastCommand[1] === 'I' && lastCommand[2] === 'made' && lastCommand[3] === 'this' && lastCommand[4] === 'boilerplate' && lastCommand[5].op === `>>` && /README\.md$/.test(lastCommand[6]))
+
+at Context.<anonymous> (test/1400.test.js:8:5)
+FAILED TEST LOG
+  ✘ tests should pass
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(lastCommand[0] === 'echo' && lastCommand[1] === 'I' && lastCommand[2] === 'made' && lastCommand[3] === 'this' && lastCommand[4] === 'boilerplate' && lastCommand[5].op === `>>` && /README\.md$/.test(lastCommand[6]))
+
+at Context.<anonymous> (test/1400.test.js:8:5)
+FAILED TEST LOG
+  ✘ tests should pass
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(lastCommand[0] === 'cp' && lastCommand[1] === '--help' && /\/project$/.test(cwd))
+
+at Context.<anonymous> (test/1470.test.js:9:5)
+FAILED TEST LOG
+  ✘ tests should pass
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(lastCommand[0] === 'cp' && lastCommand[1] === '--help' && /\/project$/.test(cwd))
+
+at Context.<anonymous> (test/1470.test.js:9:5)
+FAILED TEST LOG
+  ✘ tests should pass
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(lastCommand[0] === 'find' && /website-boilerplate/.test(lastCommand[1]) && /\/project$/.test(cwd))
+
+at Context.<anonymous> (test/1500.test.js:9:5)
